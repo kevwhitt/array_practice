@@ -1,2 +1,1 @@
-"# array_practice" 
-"# array_practice" 
+Practice code of array functions
