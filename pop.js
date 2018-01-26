@@ -1,3 +1,4 @@
+// .pop edits the original array and "pops" off the last araay item
 var plants = ['broccoli', 'cauliflower', 'cabbage', 'kale', 'tomato'];
 
 console.log(plants.pop());
